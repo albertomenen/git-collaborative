@@ -8,4 +8,10 @@ function megaCool() {
   return 2 + 2;
 }
 
+function theFunc() {
+  console.log("Hello")
+}
+
+theFunc();
+
 megaCool();
